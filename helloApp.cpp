@@ -22,7 +22,7 @@ int main()
     size_t size = sizeof(arr)/ sizeof(arr[0]);
 
     sortMin(arr,size);
-
+    std::cout << "Hello from local city" << std::endl;
     std::cout << "Hello World" << std::endl;
 
     
