@@ -22,8 +22,14 @@ int main()
     size_t size = sizeof(arr)/ sizeof(arr[0]);
 
     sortMin(arr,size);
+<<<<<<< HEAD
     std::cout << "Hello from local city" << std::endl;
     std::cout << "Hello World" << std::endl;
+    std::cout << "Hello World 123" << std::endl;
+=======
+
+    std::cout << "Hello World 123" << std::endl;
+>>>>>>> feature-123
 
     
     // for (int i = 0; i < size ; ++i) {
